@@ -1,10 +1,6 @@
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.numeric_std.all;
---Section 201 
---Group 11
---Kayshini Shan
---Ayesha Mohammedally
 
 --controls movement of extender
 --outputs extender's current position which is used to determine whether grappler can be enabled or not
