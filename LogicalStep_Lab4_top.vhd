@@ -2,10 +2,7 @@
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 USE ieee.numeric_std.ALL;
---Section 201 
---Group 11
---Kayshini Shan
---Ayesha Mohammedally
+
 ENTITY LogicalStep_Lab4_top IS
    PORT
 	(
