@@ -1,10 +1,7 @@
 library ieee;
 	use ieee.std_logic_1164.all;
 	use ieee.numeric_std.all;
---Section 201 
---Group 11
---Kayshini Shan
---Ayesha Mohammedally
+
 	Entity extender IS Port
 	(
 	    extender_position : IN std_logic_vector(3 downto 0);
