@@ -1,10 +1,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
 library work;
---Section 201 
---Group 11
---Kayshini Shan
---Ayesha Mohammedally
+
 entity Compx4 is port (
 			INPUT_A, INPUT_B: in std_logic_vector(3 downto 0);
 			AGTBx4, AEQBx4, ALTBx4 : out std_logic
