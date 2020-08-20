@@ -2,11 +2,6 @@ library ieee;
 use ieee.std_logic_1164.all;
 library work;
 
---Section 201 
---Group 11
---Kayshini Shan
---Ayesha Mohammedally
-
 --takes 2 inputs: 4-bit x and y coordinates
 --movement is enabled only when RAC motion is ON
 --type of movement(up or down) is indicated by output of the 4-bit comparator
