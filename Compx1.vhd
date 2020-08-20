@@ -1,10 +1,7 @@
 LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 LIBRARY work;
---Section 201 
---Group 11
---Kayshini Shan
---Ayesha Mohammedally
+
 ENTITY Compx1 IS
 	PORT (
 			INPUT_A,INPUT_B:IN STD_LOGIC;
