@@ -1,10 +1,7 @@
 library IEEE;
 use IEEE.std_logic_1164.all;
 use IEEE.numeric_std.all;
---Section 201 
---Group 11
---Kayshini Shan
---Ayesha Mohammedally
+
 
 --controls movement of RAC in x and y directions
 --RAC's position at any time is outputted to certain leds
